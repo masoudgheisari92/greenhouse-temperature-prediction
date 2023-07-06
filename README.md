@@ -9,7 +9,7 @@ An LSTM model is trained to predict greenhouse temperature. The model is trained
 1. Clone the Repository
 
    ```bash
-   git clone https://github.com/masoudgheisari20/greenhouse-temperature-prediction.git
+   git clone https://github.com/masoudgheisari92/greenhouse-temperature-prediction.git
    ```
 
 2. Create virtual environment and install required packages:
